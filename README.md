@@ -63,7 +63,7 @@ SSAFY 11th ~ing
  <!--언어 및 툴 --> <br/>
 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koohyunwoo1&show_icons=true&theme=radical)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhpark0323&show_icons=true&theme=radical)
    <br/>
    <br/>
 
