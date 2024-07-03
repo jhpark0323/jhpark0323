@@ -62,11 +62,14 @@ Here are some ideas to get you started:
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhpark0323&show_icons=true&theme=radical)
   <br/><br/>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhpark0323&layout=compact)
+
   <!-- 프로필 뷰 카운트 -->
   ![Profile Views](https://komarev.com/ghpvc/?username=jhpark0323&color=brightgreen)
   <br/><br/>
 
   <!-- 푸터 -->
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 
 </div>
