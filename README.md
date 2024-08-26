@@ -71,5 +71,6 @@ Here are some ideas to get you started:
   <!-- 푸터 -->
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
+     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianwogus)](https://solved.ac/brianwogus/)
 
 </div>
