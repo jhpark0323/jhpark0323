@@ -67,10 +67,11 @@ Here are some ideas to get you started:
   <!-- 프로필 뷰 카운트 -->
   ![Profile Views](https://komarev.com/ghpvc/?username=jhpark0323&color=brightgreen)
   <br/><br/>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianwogus)](https://solved.ac/brianwogus/)
 
   <!-- 푸터 -->
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianwogus)](https://solved.ac/brianwogus/)
 
 </div>
