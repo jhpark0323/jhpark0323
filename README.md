@@ -58,6 +58,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <br/><br/>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
   <!-- GitHub 통계 -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhpark0323&show_icons=true&theme=radical)
   <br/><br/>
