@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <strong>Backend 개발자 준비중</strong> 
   <br/><br/>
   
-  2024.01.02 ~ <br/>
-  SSAFY 11th ~ing
+  2024.01.02 ~ 2024.12.31<br/>
+  SSAFY 11th
   <br/><br/>
   
   <!-- 기술 스택 -->
