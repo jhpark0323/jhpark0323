@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <!-- 공부중 -->
   <strong>📚 Currently Studying</strong>
   <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <br/><br/>
 
   <!-- GitHub 통계 -->
